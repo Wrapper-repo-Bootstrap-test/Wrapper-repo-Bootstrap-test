@@ -1,0 +1,42 @@
+/* line 2, ../../../../../Users/slava/Desktop/Bootstrap/sass/style.sass */
+.navbar-brand img {
+  width: 100px;
+}
+
+/* line 4, ../../../../../Users/slava/Desktop/Bootstrap/sass/style.sass */
+.carousel-item {
+  position: relative;
+}
+
+/* line 6, ../../../../../Users/slava/Desktop/Bootstrap/sass/style.sass */
+.carousel-item img {
+  height: 650px;
+  object-fit: cover;
+}
+
+/* line 9, ../../../../../Users/slava/Desktop/Bootstrap/sass/style.sass */
+.content {
+  position: absolute;
+  max-width: 900px;
+  bottom: 10%;
+  left: 10%;
+  z-index: 2;
+  color: white;
+}
+
+/* line 16, ../../../../../Users/slava/Desktop/Bootstrap/sass/style.sass */
+.overlay {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: black;
+  opacity: 0.4;
+}
+
+/* line 23, ../../../../../Users/slava/Desktop/Bootstrap/sass/style.sass */
+.carousel-control-prev i {
+  color: red;
+  font-size: 50px;
+}
+
+/*# sourceMappingURL=style.css.map */

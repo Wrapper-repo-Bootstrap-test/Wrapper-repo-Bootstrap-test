@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		".navbar-brand {\n    img {\n        width: 100px; } }\n.carousel-item {\n    position: relative;\n    img {\n        height: 650px;\n        object-fit: cover; } }\n.content {\n    position: absolute;\n    max-width: 900px;\n    bottom: 10%;\n    left: 10%;\n    z-index: 2;\n    color: white; }\n.overlay {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    background: black;\n    opacity: 0.4; }\n.carousel-control-prev {\n    i {\n        color: red;\n        font-size: 50px; } }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AACI,aADS,CACT,GAAG,CAAC;EACA,KAAK,EAAE,KAAK;CAAG;;;AACvB,AAAA,cAAc,CAAC;EACX,QAAQ,EAAE,QAAQ;CAGQ;;;AAJ9B,AAEI,cAFU,CAEV,GAAG,CAAC;EACA,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,KAAK;CAAG;;;AAC5B,AAAA,QAAQ,CAAC;EACL,QAAQ,EAAE,QAAQ;EAClB,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,GAAG;EACX,IAAI,EAAE,GAAG;EACT,OAAO,EAAE,CAAC;EACV,KAAK,EAAE,KAAK;CAAG;;;AACnB,AAAA,QAAQ,CAAC;EACL,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,GAAG;CAAG;;;AACnB,AACI,sBADkB,CAClB,CAAC,CAAC;EACE,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,IAAI;CAAG"
+}
