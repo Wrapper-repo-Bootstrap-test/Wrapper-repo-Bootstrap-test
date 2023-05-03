@@ -11,4 +11,4 @@ Telegram: @Family_values85.
 - ⚡ Fun fact: n one year I managed to get married, move to another country, start everything from scratch, because I worked as a lawyer in Russia and now I understand in connection with the move that this knowledge will not be useful to me in any way for life in other countries.
 
 A list of what I have studied at the moment and on the basis of which I created my first projects:
-HTML, CSS, SASS, BEM, FlexBox, Grid CSS, Bootstrap, Git&GitHub, Visual Studio Code, Adaptive Layout, Emmet, Gulp (patterns)
+HTML, CSS, SASS, BEM, FlexBox, Grid CSS, Bootstrap, Git&GitHub, Visual Studio Code, Adaptive Layout, Emmet, Gulp (patterns) and Units of measurement: relative and absolute, such as pixels, percentages, em, em, fractional unit.
